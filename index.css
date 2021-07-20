@@ -1,0 +1,64 @@
+body {
+ text-align: center;
+}
+#creeper {
+    height: 250px;
+    width: 250px;
+}
+
+#ZOMBIR {
+    height: 250px;
+    width: 250px;
+
+}
+
+#ENDER {
+    height: 250px;
+    width: 250px;
+
+}
+
+#weither {
+    height: 250px;
+    width: 250px;
+
+}
+.item img {
+    height: 450px; 
+    width:450px;
+}
+
+
+.MENU {
+    width: 100%;
+    list-style: none;
+    top:0px;
+    height: 40px;
+    padding-top: 15px;
+    margin-top: 0px;
+    z-index: 9999999;
+    position: fixed;
+    background-color:firebrick
+}
+
+.links {
+    display:inline ;
+    text-decoration-color : firebrick;
+    padding : 10px;
+    font-size: 25px;
+}
+.links:hover {
+    font-size: 30px;
+    text-decoration-color : firebrick;
+}
+ 
+.ROW {
+    background:linear-gradient(#C51162 0% #52FF33 100%);
+
+}
+
+.row {
+    background:linear-gradient(#C51162 0% #52FF33 100%);
+    
+    }
+    
